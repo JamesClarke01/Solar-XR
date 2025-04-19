@@ -2,4 +2,4 @@
 * text=auto eol=lf
 
 # Exclude .html files from GitHub language statistics
-*.html linguist-vedored
+*.html linguist-vendored
